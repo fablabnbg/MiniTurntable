@@ -35,9 +35,9 @@
      units="mm"
      inkscape:document-units="mm"
      inkscape:snap-global="false"
-     inkscape:zoom="3.4145628"
-     inkscape:cx="142.55209"
-     inkscape:cy="912.25205"
+     inkscape:zoom="1.6738712"
+     inkscape:cx="131.09346"
+     inkscape:cy="911.66632"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -45,6 +45,14 @@
     <inkscape:grid
        id="grid4140"
        type="xygrid" />
+    <sodipodi:guide
+       position="211.4858,866.25544"
+       orientation="1,0"
+       id="guide3411" />
+    <sodipodi:guide
+       position="222.83674,870.43737"
+       orientation="0,1"
+       id="guide3413" />
   </sodipodi:namedview>
   <metadata
      id="metadata8">
@@ -69,23 +77,23 @@
     <image
        sodipodi:absref="/home/jw/src/github/fablabnbg/MiniTurntable/photos/20160110_225604.jpg"
        xlink:href="20160110_225604.jpg"
-       y="34.092518"
-       x="171.3094"
-       id="image4398"
-       preserveAspectRatio="none"
-       height="101.04475"
+       transform="matrix(0.99985581,0.01698118,-0.01698118,0.99985581,0,0)"
        width="135.85194"
-       transform="matrix(0.99985581,0.01698118,-0.01698118,0.99985581,0,0)" />
+       height="101.04475"
+       preserveAspectRatio="none"
+       id="image4398"
+       x="171.3094"
+       y="34.092518" />
     <image
        sodipodi:absref="/home/jw/src/github/fablabnbg/MiniTurntable/photos/20160110_225211.jpg"
        xlink:href="20160110_225211.jpg"
-       transform="matrix(0.99998257,-0.00590451,0.00590451,0.99998257,0,0)"
-       y="38.205341"
-       x="29.893421"
-       id="image10"
-       preserveAspectRatio="none"
+       width="117.80128"
        height="158.77562"
-       width="117.80128" />
+       preserveAspectRatio="none"
+       id="image10"
+       x="29.893421"
+       y="38.205341"
+       transform="matrix(0.99998257,-0.00590451,0.00590451,0.99998257,0,0)" />
   </g>
   <g
      inkscape:label="konstr"
@@ -330,6 +338,24 @@
            id="tspan4916"
            sodipodi:role="line">100Z</tspan></text>
     </g>
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.1062992;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3409"
+       cx="142.50819"
+       cy="140.24097"
+       r="124.01575" />
+    <circle
+       r="159.44882"
+       cy="158.00568"
+       cx="170.57529"
+       id="circle3415"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.10629921;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.10629921;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle3417"
+       cx="211.75592"
+       cy="181.34613"
+       r="205.51181" />
   </g>
   <g
      sodipodi:insensitive="true"
