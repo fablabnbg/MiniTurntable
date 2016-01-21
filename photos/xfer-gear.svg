@@ -34,25 +34,25 @@
      inkscape:guide-bbox="true"
      units="mm"
      inkscape:document-units="mm"
-     inkscape:snap-global="false"
-     inkscape:zoom="1.6738712"
-     inkscape:cx="131.09346"
-     inkscape:cy="911.66632"
+     inkscape:snap-global="true"
+     inkscape:zoom="2.3208868"
+     inkscape:cx="159.62708"
+     inkscape:cy="992.05932"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2">
+     inkscape:current-layer="layer1">
     <inkscape:grid
        id="grid4140"
        type="xygrid" />
     <sodipodi:guide
-       position="211.4858,866.25544"
-       orientation="1,0"
-       id="guide3411" />
-    <sodipodi:guide
        position="222.83674,870.43737"
        orientation="0,1"
        id="guide3413" />
+    <sodipodi:guide
+       position="42.519684,956.69293"
+       orientation="1,0"
+       id="guide4216" />
   </sodipodi:namedview>
   <metadata
      id="metadata8">
@@ -69,7 +69,6 @@
   <defs
      id="defs6" />
   <g
-     sodipodi:insensitive="true"
      inkscape:label="bild"
      id="layer1"
      inkscape:groupmode="layer"
@@ -77,29 +76,29 @@
     <image
        sodipodi:absref="/home/jw/src/github/fablabnbg/MiniTurntable/photos/20160110_225604.jpg"
        xlink:href="20160110_225604.jpg"
-       transform="matrix(0.99985581,0.01698118,-0.01698118,0.99985581,0,0)"
-       width="135.85194"
-       height="101.04475"
-       preserveAspectRatio="none"
-       id="image4398"
+       y="34.092518"
        x="171.3094"
-       y="34.092518" />
+       id="image4398"
+       preserveAspectRatio="none"
+       height="101.04475"
+       width="135.85194"
+       transform="matrix(0.99985581,0.01698118,-0.01698118,0.99985581,0,0)" />
     <image
        sodipodi:absref="/home/jw/src/github/fablabnbg/MiniTurntable/photos/20160110_225211.jpg"
        xlink:href="20160110_225211.jpg"
-       width="117.80128"
-       height="158.77562"
-       preserveAspectRatio="none"
+       transform="matrix(0.99821466,-0.05972844,0.05972844,0.99821466,0,0)"
+       y="42.814915"
+       x="23.434221"
        id="image10"
-       x="29.893421"
-       y="38.205341"
-       transform="matrix(0.99998257,-0.00590451,0.00590451,0.99998257,0,0)" />
+       preserveAspectRatio="none"
+       height="158.77562"
+       width="117.80128" />
   </g>
   <g
      inkscape:label="konstr"
      id="layer2"
      inkscape:groupmode="layer"
-     style="display:inline">
+     style="display:none">
     <g
        style="stroke:#ff0000;stroke-width:0.10629921;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        info="N:16; Pitch:4.45265107144; Pressure Angle: 20.0"
@@ -121,7 +120,7 @@
     <g
        id="g4402"
        inkscape:label="Gear16"
-       transform="matrix(0.99582816,0.09124837,-0.09124837,0.99582816,100.66905,61.338074)"
+       transform="matrix(0.99582816,0.09124837,-0.09124837,0.99582816,98.083831,60.2609)"
        info="N:16; Pitch:4.45265107144; Pressure Angle: 20.0"
        style="stroke:#ff0000;stroke-width:0.10629921;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <path
@@ -173,7 +172,7 @@
     <g
        id="g4459"
        inkscape:label="Gear10"
-       transform="matrix(0.99995355,-0.00963805,0.00963805,0.99995355,118.90818,64.550629)"
+       transform="matrix(0.99995355,-0.00963805,0.00963805,0.99995355,114.59948,63.25802)"
        info="N:10; Pitch:4.45265107144; Pressure Angle: 20.0"
        style="stroke:#00ff00;stroke-width:0.10629921;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <path
@@ -212,7 +211,7 @@
        inkscape:transform-center-y="0.1036472"
        style="stroke:#00ff00;stroke-width:0.14173228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        info="N:9; Pitch:4.45265107144; Pressure Angle: 20.0"
-       transform="matrix(0.99411217,0.10835585,-0.10835585,0.99411217,83.308451,61.632761)"
+       transform="matrix(0.99411217,0.10835585,-0.10835585,0.99411217,80.723232,62.063631)"
        inkscape:label="Gear9"
        inkscape:transform-center-x="-0.06302677"
        id="g4527">
@@ -361,7 +360,8 @@
      sodipodi:insensitive="true"
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="laser">
+     inkscape:label="laser"
+     style="display:none">
     <g
        style="stroke:#ff0000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="g4942"
